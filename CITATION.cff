@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "MMSx-SCAN™ Systematic Clinical Assessment Network"
+message: "If you use this framework please cite using this metadata."
+type: software
+authors:
+  - family-names: Mehta
+    given-names: Neeraj
+    orcid: "https://orcid.org/0000-0001-6200-8495"
+    affiliation: "MMSx Authority Institute for Movement Mechanics & Biomechanics Research"
+identifiers:
+  - type: doi
+    value: "10.66078/JMMBS.2026.V3I1.016"
+    description: "JMMBS published paper V3I1"
+  - type: doi
+    value: "10.17605/OSF.IO/F87N2"
+    description: "Open dataset n=870"
+repository-code: "https://github.com/MMSx-Authority/MMSx-SCAN"
+url: "https://mmsxauthority.com"
+license: "proprietary"
+version: "2.1"
+date-released: "2026-03-22"
+keywords:
+  - biomechanics
+  - movement assessment
+  - movement intelligence
+  - MMSx-SCAN
+  - MII
+  - inter-rater reliability
+  - normative values
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Mehta
+      given-names: Neeraj
+      orcid: "https://orcid.org/0000-0001-6200-8495"
+  title: "Inter-Rater Reliability and Normative Reference Values for the MMSx-SCAN™ Movement Intelligence Assessment System: A Multi-Rater Cohort Study (n=870)"
+  journal: "Journal of Movement Mechanics & Biomechanics Science"
+  volume: 3
+  issue: 1
+  year: 2026
+  doi: "10.66078/JMMBS.2026.V3I1.016"
+  url: "https://jmmbs.org"
